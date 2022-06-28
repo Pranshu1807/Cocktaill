@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Cocktaill/static/css/main.a003cb58.css",
+    "main.js": "/Cocktaill/static/js/main.5c464380.js",
+    "static/media/logo.svg": "/Cocktaill/static/media/logo.5bb3b58efe44c44cee437fa462266c08.svg",
+    "index.html": "/Cocktaill/index.html",
+    "main.a003cb58.css.map": "/Cocktaill/static/css/main.a003cb58.css.map",
+    "main.5c464380.js.map": "/Cocktaill/static/js/main.5c464380.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a003cb58.css",
+    "static/js/main.5c464380.js"
+  ]
+}
